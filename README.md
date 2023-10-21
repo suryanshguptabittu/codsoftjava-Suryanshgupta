@@ -1,2 +1,2 @@
 # codsoftjava-Suryanshgupta
-this is my first prokect
+this is my first project
